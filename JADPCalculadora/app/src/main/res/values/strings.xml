@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JADPCalculator</string>
+    <string name="comma">.</string>
+    <string name="binario">Binary</string>
+    <string name="octal">Octal</string>
+    <string name="hexadecimal">hexadecimal</string>
+    <string name="decimal">decimal</string>
+</resources>

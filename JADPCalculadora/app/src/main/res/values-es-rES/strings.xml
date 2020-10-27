@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JADPCalculadora</string>
+    <string name="comma">,</string>
+    <string name="binario">Binario</string>
+    <string name="octal">Octal</string>
+    <string name="hexadecimal">hexadecimal</string>
+    <string name="decimal">decimal</string>
+</resources>
